@@ -1,10 +1,8 @@
-Tutoriels/Démarrage \| Tutoriels \> Démarrage
+# Démarrage
 
-01\. Remarques préliminaires
+## Remarques préliminaires
 
-Premiers pas avec SuperCollider
-
-Voir aussi : 00. Premiers pas avec SC
+### Premiers pas avec SuperCollider
 
 Le texte suivant est destiné à servir d\'introduction à SuperCollider 3,
 un langage orienté objet pour la synthèse sonore et le traitement
@@ -32,7 +30,7 @@ documentation peut être consultée à l\'adresse suivante :
 
 https://supercollider.github.io
 
-Combinaisons de touches
+### Combinaisons de touches
 
 Dans ce texte, vous verrez des expressions telles que \"Ctrl-Enter\" et
 \"Cmd-Enter\". Il s\'agit de combinaisons de touches. Elles signifient :
@@ -60,7 +58,7 @@ d\'abord maintenir enfoncées les touches \"Ctrl\" et \"Shift\", puis
 appuyer sur la touche \"P\" tout en maintenant \"Ctrl\" et \"Shift\"
 enfoncées.
 
-Liens
+### Liens
 
 Dans le texte, et à la fin de chaque section, il peut y avoir une liste
 de liens vers d\'autres documents, qui ressemblera à ceci :
@@ -78,7 +76,7 @@ inquiétez donc pas si tout ce qu\'ils contiennent n\'est pas
 immédiatement compréhensible. Il n\'est pas nécessaire de les avoir vus
 et/ou compris pour continuer ce tutoriel.
 
-Exemples de code
+### Exemples de code
 
 Les exemples de code dans le texte sont dans une police différente :
 
@@ -97,10 +95,3 @@ modifier les documents originaux du didacticiel, mais si vous le faites,
 veillez à ne pas les sauvegarder (par exemple si on vous le demande
 lorsque vous les fermez). Il est plus sûr de copier les choses dans un
 nouveau document avant de les modifier.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Ce document fait partie du tutoriel \"Getting Started With
-SuperCollider\".
-
-Cliquez ici pour passer à la section suivante : 02. Premiers pas
